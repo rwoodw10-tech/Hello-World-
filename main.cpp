@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-  cout << "Enter the measuerment "
+  cout << "Enter the measurement in  "
 }
