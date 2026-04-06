@@ -9,6 +9,7 @@ int main()
   int cups;
   cout << "Enter a measurement in teaspoons:" << endl;
   cin >> teaspoons;
-  tablespoons = teaspoons / 3;
   
+  tablespoons = teaspoons / 3;
+
 }
