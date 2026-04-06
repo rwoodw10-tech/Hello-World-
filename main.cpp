@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-  int ;
+  int teaspoons;
   cout << "Enter a measurement in teaspoons:" << endl;
-  cin >> num;
+  cin >> tes;
 
 }
