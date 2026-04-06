@@ -14,7 +14,7 @@ int main()
   remainingTeaspoons = teaspoons % 48;
   tablespoons = remainingTeaspoons / 3;
   teaspoons = remainingTeaspoons % 3;
-  cout << "cups was"
+  cout << "Cups was"
 
 
 }
