@@ -13,7 +13,7 @@ int main()
   cin >> teaspoons;
   quart = teaspoons / 192;
   remainingTeaspoons = teaspoons % 192;
-  cups = remaining / 48;
+  cups = remainingTeaspoons / 48;
   remainingTeaspoons = teaspoons % 48;
   tablespoons = remainingTeaspoons / 3;
   teaspoons = remainingTeaspoons % 3;
