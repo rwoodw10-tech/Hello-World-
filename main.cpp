@@ -13,7 +13,8 @@ int main()
   cups = teaspoons / 48;
   remainingTeaspoons = teaspoons % 48;
   tablespoons = remainingTeaspoons / 3;
-   = remainingTeaspoons % 3;
+  teaspoons = remainingTeaspoons % 3;
+  
 
 
 }
