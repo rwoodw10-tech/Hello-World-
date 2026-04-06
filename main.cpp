@@ -20,5 +20,5 @@ int main()
   cout << quart << "quart(s)" << endl;
   cout << cups << "cups(s)" << endl;
   cout << tablespoons << "tablespoons(s)" << endl;
-  cout << quart << "quart(s)" << endl;
+  cout << teaspoons << "quart(s)" << endl;
 }
