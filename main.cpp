@@ -9,5 +9,5 @@ int main()
   int cups;
   cout << "Enter a measurement in teaspoons:" << endl;
   cin >> teaspoons;
-  tablespoosn
+  tablespoons = 
 }
