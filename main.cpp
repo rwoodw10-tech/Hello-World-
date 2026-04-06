@@ -19,5 +19,6 @@ int main()
   teaspoons = remainingTeaspoons % 3;
   cout << quart << "quart(s)" << endl;
   cout << cups << "cups(s)" << endl;
-  cout << tablespoons << "ta(s)" << endl;
+  cout << tablespoons << "tablespoons(s)" << endl;
+  cout << quart << "quart(s)" << endl;
 }
