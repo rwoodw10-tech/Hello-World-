@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-  cout << "Enter the measurement in  "
+  cout << "Enter the measurement in teaspoons"
 }
