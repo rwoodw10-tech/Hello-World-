@@ -6,7 +6,7 @@ int main()
 {
   int teaspoons;
   int tablespoons;
-  int
+  int cups;
   cout << "Enter a measurement in teaspoons:" << endl;
   cin >> teaspoons;
 }
