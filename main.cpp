@@ -12,6 +12,6 @@ int main()
   cin >> teaspoons;
   cups = teaspoons / 48;
   remainingTeaspoons = teaspoons % 48;
-  tablespoons = teaspoons / 3;
+  tablespoons = remainingTeaspoons / 3;
 
 }
