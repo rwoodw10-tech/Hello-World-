@@ -18,5 +18,5 @@ int main()
   tablespoons = remainingTeaspoons / 3;
   teaspoons = remainingTeaspoons % 3;
   cout << quart << "quart(s)" << endl;
-  
+  cout <<  << "quart(s)" << endl;
 }
