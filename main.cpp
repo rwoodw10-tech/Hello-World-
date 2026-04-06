@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-  int num
+  int num;
   cout << "Enter a measurement in teaspoons:" << endl;
+  
 }
