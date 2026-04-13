@@ -6,10 +6,10 @@ int main()
 {
   double heightOfRamp;
   cin >> heightOfRamp;
-  double rampAngleForLaunch;
+  double rampAngle;
   cin >> rampAngle;
   double velocityOfBike;
   cin >> velocityOfBike;
-  double horizontalVelocity =
+  double horizontalVelocity = 
 
 }
