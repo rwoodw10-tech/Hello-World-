@@ -16,5 +16,5 @@ int main()
   double verticalVelocity;
   verticalVelocity = velocityOfBike * sin(rampAngle);
   double timeBikeInAir;
-  timeBikeInAir = verticalVelocity 
+  timeBikeInAir = verticalVelocity *
 }
