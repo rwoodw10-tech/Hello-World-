@@ -10,6 +10,6 @@ int main()
   cin >> rampAngle;
   double velocityOfBike;
   cin >> velocityOfBike;
-  double horizontalVelocity = velocityOfBike * cos(ramp)
+  double horizontalVelocity = velocityOfBike * cos(rampAngle);
 
 }
