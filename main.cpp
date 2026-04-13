@@ -6,4 +6,5 @@ int main()
 {
   double heightOfRamp;
   cin >> heightOfRamp;
+  
 }
