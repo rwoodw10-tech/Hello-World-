@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include <numbers>
-#include <cfenv>
+
 
 using namespace std;
 
@@ -14,6 +13,6 @@ int main()
   double velocityOfBike;
   cin >> velocityOfBike;
   double horizontalVelocity;
-  horizontalVelocity = velocityOfBike * cos9rampAngle>;
+  horizontalVelocity = velocityOfBike * cos(rampAngle);
 
 }
