@@ -5,5 +5,5 @@ using namespace std;
 int main()
 {
   double heightOfRamp;
-  cin >> hightOfRamp;
+  cin >> heightOfRamp;
 }
