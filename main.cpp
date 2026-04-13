@@ -14,5 +14,5 @@ int main()
   double horizontalVelocity;
   horizontalVelocity = velocityOfBike * cos(rampAngle);
   double verticalVelocity;
-  verticalVelocity = = velocityOfBike * cos(rampAngle);
+  verticalVelocity = velocityOfBike * sin(rampAngle);
 }
