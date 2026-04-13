@@ -10,6 +10,6 @@ int main()
   cin >> rampAngleForLaunch;
   double launchVelocityOfBike;
   cin >> launchVelocityOfBike;
-  double horizontalVelocit
+  double horizontalVelocity =
 
 }
