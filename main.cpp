@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 using namespace std;
 
 int main()
@@ -10,6 +11,6 @@ int main()
   cin >> rampAngle;
   double velocityOfBike;
   cin >> velocityOfBike;
-  double horizontalVelocity = velocityOfBike * cos<rampAngle);
+  double horizontalVelocity = velocityOfBike * cos<rampAngle>;
 
 }
