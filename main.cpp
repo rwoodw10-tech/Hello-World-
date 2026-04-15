@@ -24,5 +24,5 @@ int main() {
   double VertVelocityPow2;
   VertVelocityPow2 = pow(verticalVelocity, 2);
   double timeBikeInAir;
-  timeBikeInAir = verticalVelocity + sqrt( + (2 * accel_DueToGrav_));
+  timeBikeInAir = verticalVelocity + sqrt(VertVelocityPow2 + (2 * accel_DueToGrav_));
 }
