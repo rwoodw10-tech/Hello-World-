@@ -4,7 +4,6 @@
 using namespace std;
 
 int main()
-{
   double heightOfRamp;
   cin >> heightOfRamp;
   
@@ -24,4 +23,4 @@ int main()
   accel_DueToGrav_= 32.17405;
   double timeBikeInAir;
   timeBikeInAir = verticalVelocity + sqrt(pow(verticalVelocity, 2) + (2 * accel_DueToGrav_)
-  
+}
