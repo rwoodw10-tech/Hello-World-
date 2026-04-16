@@ -13,7 +13,7 @@ int main() {
   cin >> rampAngle;
 
   double velocityOfBike;
-  cout << "Enter Velocity of the Bike: "
+  cout << "Enter Velocity of the Bike: ";
   cin >> velocityOfBike;
 
   double horizontalVelocity;
@@ -51,6 +51,6 @@ int main() {
 
   cout << "Jump Distance: " << JumpDistance << " feet" << endl;
 
-  cout << "Landing Speed: " << landSpeed << " ft/s" << 
+  cout << "Landing Speed: " << landSpeed << " ft/s" << endl;
 
 }
