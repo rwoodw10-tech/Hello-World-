@@ -9,7 +9,7 @@ int main() {
   cin >> rampHeight;
   
   double rampAngle;
-  cout << "Enter Ramp Angle";
+  cout << "Enter Ramp Angle: ";
   cin >> rampAngle;
 
   double velocityOfBike;
