@@ -38,8 +38,8 @@ int main() {
   maxHeight = rampHeight + (VertVelocityPow2 / (2 * accel_DueToGrav_));
   //cout << maxHeight << endl;
 
-  double JumpDist;
-  JumpDist = horizontalVelocity * timeBikeInAir_true;
+  double JumpDistance;
+  JumpDistance = horizontalVelocity * timeBikeInAir_true;
   double landSpeed;
   landSpeed = sqrt(pow(horizontalVelocity, 2) + (VertVelocityPow2 + (2 * accel_DueToGrav_ * rampHeight)));
   
