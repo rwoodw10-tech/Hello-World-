@@ -36,6 +36,6 @@ int main() {
   //cout << maxHeight << endl;
 
   double horizontalDist;
-  horizontalDist = horizontalVelocity * timeBikeinair_2;
+  horizontalDist = horizontalVelocity * timeBikeInAir_2;
 
 }
