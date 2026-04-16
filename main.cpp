@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
   double rampHeight;
-  cout
+  cout << 
   cin >> rampHeight;
   
   double rampAngle;
