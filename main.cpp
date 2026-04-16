@@ -43,6 +43,6 @@ int main() {
   double landSpeed;
   landSpeed = sqrt(pow(horizontalVelocity, 2) + (VertVelocityPow2 + (2 * accel_DueToGrav_ * rampHeight)));
   
-  cout << "Horizontal Velocity: "
+  cout << "Horizontal Velocity: " << horiz
 
 }
