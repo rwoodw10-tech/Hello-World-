@@ -51,6 +51,6 @@ int main() {
 
   cout << "Jump Distance: " << JumpDistance << " feet" << endl;
 
-  cout <<
+  cout << "Landing"
 
 }
