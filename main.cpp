@@ -13,7 +13,7 @@ int main() {
   cin >> rampAngle;
 
   double velocityOfBike;
-  
+  cout
   cin >> velocityOfBike;
 
   double horizontalVelocity;
