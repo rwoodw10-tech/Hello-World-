@@ -36,5 +36,5 @@ int main() {
   //cout << maxHeight << endl;
 
   double horizontalDist;
-  horizontalDist = horizontal
+  horizontalDist = horizontalvelocity 
 }
