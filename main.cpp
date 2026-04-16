@@ -23,9 +23,9 @@ int main() {
   accel_DueToGrav_= 32.17405;
   double VertVelocityPow2;
   VertVelocityPow2 = pow(verticalVelocity, 2);
-  double timeBikeInAir;
+  double timeBikeInAir_1;
   timeBikeInAir_1 = verticalVelocity + sqrt(VertVelocityPow2 + (2 * accel_DueToGrav_ * rampHeight)) / accel_DueToGrav_;
-  timeBikeInAirFinal
+  timeBikeInAir_2
   //cout << rampHeight << " " << horizontalVelocity << endl;
   //cout << timeBikeInAir << endl;
   
