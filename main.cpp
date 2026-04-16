@@ -45,6 +45,8 @@ int main() {
   
   cout << "Horizontal Velocity: " << horizontalVelocity << " ft/s" << endl;
 
-  cout << "Air Time: " << timeBikeInAir_true << " seconds"
+  cout << "Air Time: " << timeBikeInAir_true << " seconds" << endl;
+
+  cout
 
 }
