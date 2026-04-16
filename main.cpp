@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
   double rampHeight;
-  cout << "Enter Ramp Height" << en
+  cout << "Enter Ramp Height: " << endl;
   cin >> rampHeight;
   
   double rampAngle;
