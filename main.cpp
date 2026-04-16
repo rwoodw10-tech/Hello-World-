@@ -47,6 +47,6 @@ int main() {
 
   cout << "Air Time: " << timeBikeInAir_true << " seconds" << endl;
 
-  cout << ""
+  cout << "Maximum Height: "
 
 }
