@@ -49,6 +49,6 @@ int main() {
 
   cout << "Maximum Height: " << maxHeight << "feet" << endl;
 
-  cout << "Jump Distance: " << Hori
+  cout << "Jump Distance: " << horizontalDist
 
 }
