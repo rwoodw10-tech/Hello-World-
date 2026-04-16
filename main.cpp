@@ -47,8 +47,8 @@ int main() {
 
   cout << "Air Time: " << timeBikeInAir_true << " seconds" << endl;
 
-  cout << "Maximum Height: " << maxHeight << "feet" << endl;
+  cout << "Maximum Height: " << maxHeight << " feet" << endl;
 
-  cout << "Jump Distance: " << JumpDistance << "feet"
+  cout << "Jump Distance: " << JumpDistance << " feet"
 
 }
