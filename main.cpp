@@ -39,4 +39,5 @@ int main() {
   horizontalDist = horizontalVelocity * timeBikeInAir_2;
   double landSpeed;
   landSpeed = sqrt(pow(horizontalVelocity, 2) + (VertVelocityPow2 + (2 * accel_DueToGrav_ * rampHeight));
+  
 }
