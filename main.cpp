@@ -5,11 +5,11 @@ using namespace std;
 
 int main() {
   double rampHeight;
-  cout << "Enter Ramp Height: " << endl;
+  cout << "Enter Ramp Height: ;
   cin >> rampHeight;
   
   double rampAngle;
-  cout << "Enter Ramp Angle" << endl;
+  cout << "Enter Ramp Angle";
   cin >> rampAngle;
 
   double velocityOfBike;
