@@ -4,8 +4,8 @@
 using namespace std;
 
 int main() {
-  double Ramp;
-  cin >> heightOfRamp;
+  double RampHeight;
+  cin >> Ramp;
   
   double rampAngle;
   cin >> rampAngle;
