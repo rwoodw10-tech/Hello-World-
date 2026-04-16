@@ -30,7 +30,6 @@ int main() {
   //cout << timeBikeInAir_2 << endl;
   timeBikeInAir_2 = timeBikeInAir_1 / accel_DueToGrav_;
   //cout << rampHeight << " " << horizontalVelocity << endl;
-  //cout << timeBikeInAir << endl;
   
   double maxHeight;
   maxHeight = rampHeight + (VertVelocityPow2 / (2 * accel_DueToGrav_));
