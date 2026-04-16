@@ -28,5 +28,5 @@ int main() {
   
   //cout << heightOfRamp << " " << horizontalVelocity << endl;
   //cout << timeBikeInAir << endl;
-
+  
 }
