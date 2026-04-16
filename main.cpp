@@ -20,10 +20,10 @@ int main() {
   cin >> velocityOfBike;
 
   double horizontalVelocity;
-  horizontalVelocity = velocityOfBike * cos(rampAngleR);
+  horizontalVelocity = velocityOfBike * cos(rampAngleRadian);
 
   double verticalVelocity;
-  verticalVelocity = velocityOfBike * sin(rampAngle);
+  verticalVelocity = velocityOfBike * sin(rampAngleRadian);
   
   double accel_DueToGrav_;
   accel_DueToGrav_= 32.17405;
