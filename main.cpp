@@ -45,6 +45,6 @@ int main() {
   
   cout << "Horizontal Velocity: " << horizontalVelocity << " ft/s" << endl;
 
-  cout << 
+  cout << "Air "
 
 }
