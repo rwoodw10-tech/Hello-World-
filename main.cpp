@@ -13,14 +13,14 @@ int main() {
   cin >> rampAngle;
   double rampAngleRadian;
   double PI = numbers::pi;
-  rampAngleRadian = rampAngle * (PI / 180)
+  rampAngleRadian = rampAngle * (PI / 180);
 
   double velocityOfBike;
   cout << "Enter Velocity of the Bike: ";
   cin >> velocityOfBike;
 
   double horizontalVelocity;
-  horizontalVelocity = velocityOfBike * cos(rampAngle);
+  horizontalVelocity = velocityOfBike * cos(rampAngleR);
 
   double verticalVelocity;
   verticalVelocity = velocityOfBike * sin(rampAngle);
