@@ -50,6 +50,7 @@ int main() {
   cout << "Maximum Height: " << maxHeight << " feet" << endl;
 
   cout << "Jump Distance: " << JumpDistance << " feet" << endl;
-  
+
+  cout <<
 
 }
