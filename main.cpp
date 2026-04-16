@@ -12,8 +12,8 @@ int main() {
   cout << "Enter Ramp Angle: ";
   cin >> rampAngle;
   double rampAngleRadian;
-  double Pi = numbers::pi;
-  rampAngleRadian = rampAngle * ()
+  double PI = numbers::pi;
+  rampAngleRadian = rampAngle * (PI)
 
   double velocityOfBike;
   cout << "Enter Velocity of the Bike: ";
