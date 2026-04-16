@@ -45,4 +45,6 @@ int main() {
   
   cout << "Horizontal Velocity: " << horizontalVelocity << " ft/s" << endl;
 
+  cou
+
 }
