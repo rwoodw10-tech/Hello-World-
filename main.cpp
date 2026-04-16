@@ -39,12 +39,12 @@ int main() {
   //cout << maxHeight << endl;
 
   double horizontalDist;
-  horizontalDist = horizontalVelocity * timeBikeInAir_2;
+  horizontalDist = horizontalVelocity * timeBikeInAir_true;
   double landSpeed;
   landSpeed = sqrt(pow(horizontalVelocity, 2) + (VertVelocityPow2 + (2 * accel_DueToGrav_ * rampHeight)));
   
   cout << "Horizontal Velocity: " << horizontalVelocity << " ft/s" << endl;
 
-  cout << "Air Time: " << timeBikeInAir_2 <<
+  cout << "Air Time: " << timeBikeInAir_true <<
 
 }
