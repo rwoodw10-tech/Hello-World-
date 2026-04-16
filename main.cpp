@@ -35,6 +35,6 @@ int main() {
   maxHeight = rampHeight + (VertVelocityPow2 / (2 * accel_DueToGrav_));
   //cout << maxHeight << endl;
 
-  double horizontalDst;
+  double horizontalDcst;
 
 }
