@@ -38,5 +38,5 @@ int main() {
   double horizontalDist;
   horizontalDist = horizontalVelocity * timeBikeInAir_2;
   double landSpeed;
-  landSpeed = 
+  landSpeed = sqrt( )
 }
