@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-  double mpHeight;
+  double rampHeight;
   cin >> rampHeight;
   
   double rampAngle;
