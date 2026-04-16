@@ -26,7 +26,7 @@ int main() {
   double timeBikeInAir;
   timeBikeInAir = verticalVelocity + sqrt(VertVelocityPow2 + (2 * accel_DueToGrav_ * rampHeight));
   
-  //cout << heightOfRamp << " " << horizontalVelocity << endl;
+  //cout << r << " " << horizontalVelocity << endl;
   //cout << timeBikeInAir << endl;
   
   double maxHeight;
