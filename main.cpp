@@ -4,7 +4,6 @@
 
 using namespace std;
 
-cout << fixed << setprecision(2);
 int main() {
- 
+ cout << fixed << setprecision(2);
 }
