@@ -10,5 +10,6 @@ int main() {
  cout << "Int." << "\t";
  cout << "Pay" << "\t";
  cout << "Balance" << endl;
- int month
+ int month;
+ double 
 }
