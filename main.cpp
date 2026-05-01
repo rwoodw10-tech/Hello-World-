@@ -17,5 +17,5 @@ int main() {
  cin >> interestRate;
  cin >> amountPayed;
  cin >> accountBalance;
- for (month = 0; accountBalance )
+ for (month = 0; accountBalance <= 0)
 }
