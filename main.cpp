@@ -13,5 +13,5 @@ int main() {
  int month;
  double interestRate;
  double amountPayed;
- double account
+ double accountBalance;
 }
