@@ -14,5 +14,5 @@ int main() {
  double interestRate;
  double amountPayed;
  double accountBalance;
- cin >> intrest
+ cin >> interestRate
 }
