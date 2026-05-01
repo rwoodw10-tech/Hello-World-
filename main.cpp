@@ -9,5 +9,5 @@ int main() {
  cout << "Month" << "\t";
  cout << "Int." << "\t";
  cout << "Pay" << "\t";
- cout << "Balance" << "\t" endl
+ cout << "Balance" << "\t" << endl;
 }
