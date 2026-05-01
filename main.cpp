@@ -12,5 +12,6 @@ int main() {
  cout << "Balance" << endl;
  int month;
  double interestRate;
- double amount
+ double amountPayed;
+ 
 }
