@@ -4,7 +4,7 @@
 
 using namespace std;
 
-cout << fixed << 
+cout << fixed << setPerci
 int main() {
  
 }
