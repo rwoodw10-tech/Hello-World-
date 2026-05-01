@@ -11,5 +11,5 @@ int main() {
  cout << "Pay" << "\t";
  cout << "Balance" << endl;
  int month;
- double interest
+ double interestR
 }
