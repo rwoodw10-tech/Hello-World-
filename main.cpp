@@ -4,7 +4,7 @@
 
 using namespace std;
 
-cout
+cout << fixed << 
 int main() {
  
 }
