@@ -30,7 +30,7 @@ int main() {
   cout << "Balance" << endl;
   double APR = (interestRate / 12) * 10;
   double calculation = (accountBalance -150) + APR;
-  
+  if (accountBalance)
   //cout << month << "\t";
   //cout << interestRate << "\t";
   //cout << amountPayed << "\t";
