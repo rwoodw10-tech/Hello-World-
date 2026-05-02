@@ -13,6 +13,7 @@ int main() {
  double interestRate;
  double amountPayed;
  double accountBalance;
+ cout << "Enter Account Balance: ";
  cin >> accountBalance;
  cout << "Enter Payment: ";
  cin >> amountPayed;
