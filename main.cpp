@@ -20,9 +20,9 @@ int main() {
  cout << "Enter APR: ";
  cin >> interestRate;
  double APR = interestRate / 12;
-  cout << APR << endl;
-  double calculation = (accountBalance + APR) - 150;
-  cout << "Calculation: " << calculation << endl;
+ cout << APR << endl;
+ double calculation = (accountBalance + APR) - 150;
+ cout << "Calculation: " << calculation << endl;
  for (month = 0; accountBalance <= 0; ++month){
   cout << fixed << setprecision(2);
   cout << "Month" << "\t";
