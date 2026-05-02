@@ -4,7 +4,6 @@
 using namespace std;
 
 int main() {
-  
  cout << fixed << setprecision(2);
  /*cout << "Month" << "\t";
  cout << "Int." << "\t";
@@ -23,7 +22,7 @@ int main() {
  double APR = (interestRate / 12) * 10;
  cout << APR << endl;
  double calculation = (accountBalance -150) + APR;
- cout << "Calculation: " << calculation << endl;
+ //cout << "Calculation: " << calculation << endl;
  for (month = 0; accountBalance <= 0; ++month){
   cout << "Month" << "\t";
   cout << "Int." << "\t";
