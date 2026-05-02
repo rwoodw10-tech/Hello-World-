@@ -9,6 +9,7 @@ int main() {
  cout << "Int." << "\t";
  cout << "Pay" << "\t";
  cout << "Balance" << endl;*/
+ cout << fixed << setprecision(2);
  int month;
  double interestRate;
  double amountPayed;
