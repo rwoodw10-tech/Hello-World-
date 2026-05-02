@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <iomanip>
-import simplE
+import Simple
 using namespace std;
 
 int main() {
