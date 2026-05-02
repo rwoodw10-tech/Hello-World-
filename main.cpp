@@ -14,9 +14,9 @@ int main() {
  double amountPayed;
  double accountBalance;
  cin >> accountBalance;
- cout << "Enter Account Balance: ";
  cout << "Enter Payment: ";
  cin >> amountPayed;
+ cout << "Enter APR: ";
  cin >> interestRate;
  for (month = 0; accountBalance <= 0; ++month){
   cout << fixed << setprecision(2);
