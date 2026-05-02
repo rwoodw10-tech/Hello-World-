@@ -9,7 +9,7 @@ int main() {
  cout << "Month" << "\t";
  cout << "Int." << "\t";
  cout << "Pay" << "\t";
- cout << "Balance" << endl;/*
+ cout << "Balance" << endl;*/
  int month;
  double interestRate;
  double amountPayed;
