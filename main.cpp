@@ -14,10 +14,10 @@ int main() {
  double amountPayed;
  double accountBalance;
  cout << "Enter Payment: ";
- cout << "Enter Account Balance: ";
  cin >> amountPayed;
  cin >> accountBalance;
  cin >> interestRate;
+ cout << "Enter APR: ";
  for (month = 0; accountBalance <= 0; ++month){
   cout << fixed << setprecision(2);
   cout << "Month" << "\t";
