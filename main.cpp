@@ -33,9 +33,9 @@ int main() {
     double calculation = (accountBalance -150) + APR;
     cout << "Calculation: " << calculation << "\t" << APR << endl;
   }
-  if (accountBalance < 150) {
+   (accountBalance < 150) {
     accountBalance -= accountBalance;
-    
+
   }
   //cout << month << "\t";
   //cout << interestRate << "\t";
