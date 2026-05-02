@@ -21,6 +21,6 @@ int main() {
   cout << month << "\t";
   cout << interestRate << "\t";
   cout << amountPayed << "\t";
-  cout << account
+  cout << accountBalance << ""
  }
 }
