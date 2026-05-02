@@ -25,7 +25,8 @@ int main() {
   cout << "Int." << "\t";
   cout << "Pay" << "\t";
   cout << "Balance" << endl;
-  //double APR / 12 is interest;
+  
+  //double APR / 12; is interest
   //cout << month << "\t";
   //cout << interestRate << "\t";
   //cout << amountPayed << "\t";
