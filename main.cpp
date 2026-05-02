@@ -20,7 +20,7 @@ int main() {
  cout << "Enter APR: ";
  cin >> interestRate;
  double APR = (interestRate / 12) * 10;
- cout << APR << endl;
+ //cout << APR << endl;
  double calculation = (accountBalance -150) + APR;
  //cout << "Calculation: " << calculation << endl;
  for (month = 0; accountBalance <= 0; ++month){
@@ -28,6 +28,7 @@ int main() {
   cout << "Int." << "\t";
   cout << "Pay" << "\t";
   cout << "Balance" << endl;
+  
   //cout << month << "\t";
   //cout << interestRate << "\t";
   //cout << amountPayed << "\t";
