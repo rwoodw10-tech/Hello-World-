@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <iomanip>
-import Simple
+#import SimpleRandom
 using namespace std;
 
 int main() {
