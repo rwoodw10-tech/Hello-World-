@@ -20,6 +20,7 @@ int main() {
  cin >> amountPayed;
  cout << "Enter APR: ";
  cin >> interestRate;
+ 
  double APR = interestRate / 12;
  cout << APR << endl;
  double calculation = (accountBalance + APR) - 150;
