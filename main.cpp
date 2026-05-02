@@ -28,7 +28,7 @@ int main() {
   cout << "Int." << "\t";
   cout << "Pay" << "\t";
   cout << "Balance" << endl;
-  
+  if month
   double APR = (interestRate / 12) * 10;
   double calculation = (accountBalance -150) + APR;
   if (accountBalance < 150) {
