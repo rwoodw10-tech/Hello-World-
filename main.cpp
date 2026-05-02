@@ -35,7 +35,6 @@ int main() {
   }
   else if (accountBalance <= 150) {
     accountBalance -= accountBalance;
-
   }
   //cout << month << "\t";
   //cout << interestRate << "\t";
