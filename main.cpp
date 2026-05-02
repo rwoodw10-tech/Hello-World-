@@ -14,7 +14,8 @@ int main() {
  double interestRate;
  double amountPayed;
  double accountBalance;
- cin >> interestRate
+ cout <<
+ cin >> interestRate;
  cin >> amountPayed;
  cin >> accountBalance;
  for (month = 0; accountBalance <= 0; ++month){
