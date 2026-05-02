@@ -25,8 +25,8 @@ int main() {
   cout << "Pay" << "\t";
   cout << "Balance" << endl;
   //cout << month << "\t";
-  cout << interestRate << "\t";
-  cout << amountPayed << "\t";
-  cout << accountBalance << "\t";
+  //cout << interestRate << "\t";
+  //cout << amountPayed << "\t";
+  //cout << accountBalance << "\t";
  }
 }
