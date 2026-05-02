@@ -31,7 +31,7 @@ int main() {
   if (month > 0) {
     double APR = (interestRate / 12) * 10;
     double calculation = (accountBalance -150) + APR;
-    
+    cout << calc
   }
   if (accountBalance < 150) {
     accountBalance -= accountBalance;
