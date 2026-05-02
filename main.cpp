@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <iomanip>
-
+#
 using namespace std;
 
 int main() {
@@ -26,7 +26,7 @@ int main() {
   cout << "Int." << "\t";
   cout << "Pay" << "\t";
   cout << "Balance" << endl;
-  
+  r
   //cout << month << "\t";
   //cout << interestRate << "\t";
   //cout << amountPayed << "\t";
