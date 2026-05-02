@@ -18,7 +18,6 @@ int main() {
  cin >> amountPayed;
  cin >> accountBalance;
  for (month = 0; accountBalance <= 0; ++month){
-  month = 0;
   cout << month << "\t";
   cout << interestRate << "\t";
   cout << amountPayed << "\t";
