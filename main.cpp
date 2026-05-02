@@ -21,7 +21,7 @@ int main() {
  cin >> interestRate;
  //double APR = (interestRate / 12) * 10;
  //cout << APR << endl;
- double calculation = (accountBalance -150) + APR;
+ //double calculation = (accountBalance -150) + APR;
  //cout << "Calculation: " << calculation << endl;
  for (month = 0; accountBalance <= 0; ++month){
   cout << "Month" << "\t";
