@@ -18,6 +18,7 @@ int main() {
  cin >> amountPayed;
  cin >> accountBalance;
  for (month = 0; accountBalance <= 0; amountPayed){
-  cout << month << ""
+  cout << month << "\t";
+  
  }
 }
