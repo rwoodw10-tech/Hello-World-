@@ -15,8 +15,6 @@ int main() {
  double accountBalance;
  cout << "Enter Payment: ";
  cin >> amountPayed;
- cin >> accountBalance;
- cout << "Enter Account Balance: ";
  cin >> interestRate;
  cout << "Enter APR: ";
  for (month = 0; accountBalance <= 0; ++month){
