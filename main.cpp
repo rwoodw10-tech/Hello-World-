@@ -19,6 +19,7 @@ int main() {
  cout << "Enter Account Balance"
  cin >> amountPayed;
  cin >> accountBalance;
+ cin >> interestRate;
  for (month = 0; accountBalance <= 0; ++month){
   cout << fixed << setprecision(2);
   cout << "Month" << "\t";
