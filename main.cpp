@@ -40,7 +40,7 @@ int month = 12, payment = 0;
             monthlyInterest = (balance * interest);
             
             if (balance <= 150) {
-              balance -= balance + ;
+              balance -= balance ;
               std::cout << balance << std::endl;
             }
             else{
