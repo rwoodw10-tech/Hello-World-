@@ -47,9 +47,10 @@ int month = 12, payment = 0;
               
               balance -= payment;
               balance = balance + monthlyInterest;
-             std::cout << i << '\t';
-            std::cout << monthlyInterest << '\t';
-            std::cout << payment << '\t';
+              std::cout << i << '\t';
+              std::cout << monthlyInterest << '\t';
+              std::cout << payment << '\t';
+              
         }
     }
 
