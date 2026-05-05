@@ -47,7 +47,7 @@ int month = 12, payment = 0;
             std::cout << payment << '\t';
             std::cout << balance << std::endl;
         }
-        if ( )
+        if ()
     }
 
     return 0;
