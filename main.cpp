@@ -52,7 +52,6 @@ int month = 12, payment = 0;
             else{
               std::cout << balance << std::endl;
             }
-            std::cout << balance << std::endl;
         }
     }
 
