@@ -45,12 +45,6 @@ int month = 12, payment = 0;
             std::cout << i << '\t';
             std::cout << monthlyInterest << '\t';
             std::cout << payment << '\t';
-            if (balance <= 150) {
-              balance -= balance;
-              std::cout << balance << std::endl;
-            }
-            else{
-              std::cout << balance << std::endl;
             }
         }
     }
