@@ -48,7 +48,7 @@ int month = 12, payment = 0;
             if (balance < 150) {
               balance -= balance;
             }
-            
+            else 
             std::cout << balance << std::endl;
         }
     }
