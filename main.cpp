@@ -39,7 +39,7 @@ int month = 12, payment = 0;
         {
             monthlyInterest = (balance * interest);
             
-            else{
+            if () {
               
               balance -= payment;
               balance = balance + monthlyInterest;
