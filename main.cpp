@@ -49,7 +49,7 @@ int month = 12, payment = 0;
               balance -= balance;
             }
             else{
-
+              
             }
             std::cout << balance << std::endl;
         }
