@@ -44,8 +44,8 @@ int month = 12, payment = 0;
               std::cout << balance << std::endl;
             }
             else{
-              std::cout << balance << std::endl;
-            balance -= payment;
+              
+                balance -= payment;
             balance = balance + monthlyInterest;
             std::cout << i << '\t';
             std::cout << monthlyInterest << '\t';
