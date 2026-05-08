@@ -34,7 +34,7 @@ int main() {
             cout << i << '\t';
             cout << monthlyInterest << '\t';
             cout << payment << '\t';
-            cout << balance << std::endl;
+            cout << balance << endl;
         }
         else
         {
@@ -49,7 +49,7 @@ int main() {
 
             balance -= payment;
 
-            std::cout << i << '\t';
+            cout << i << '\t';
             std::cout << monthlyInterest << '\t';
             std::cout << payment << '\t';
             std::cout << balance << std::endl;
