@@ -9,7 +9,7 @@ int main() {
     int month = 12;
     double interest = 0, monthlyInterest = 0, APR = 0, balance = 0, payment = 0;
 
-    cout << std::fixed << std::setprecision(2);
+    cout << fixed << setprecision(2);
     std::cout << "enter balance" << std::endl;
     std::cin >> balance;
     std::cout << "enter payment" << std::endl;
