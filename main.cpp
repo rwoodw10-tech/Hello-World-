@@ -28,8 +28,6 @@ int main() {
 
     for (int i = 0; i < month; ++i)
     {
-
-        
         if (i == 0)
         {
             cout << i << '\t';
