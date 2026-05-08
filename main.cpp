@@ -11,10 +11,10 @@ int main() {
 
     cout << fixed << setprecision(2);
     cout << "enter balance" << endl;
-    std::cin >> balance;
-    std::cout << "enter payment" << std::endl;
-    std::cin >> payment;
-    std::cout << "enter APR" << std::endl;
+    cin >> balance;
+    cout << "enter payment" << std::endl;
+    cin >> payment;
+cout << "enter APR" << std::endl;
     std::cin >> APR;
 
     interest = (APR / 12) / 100;
