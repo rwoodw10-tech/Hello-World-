@@ -50,9 +50,9 @@ int main() {
             balance -= payment;
 
             cout << i << '\t';
-            std::cout << monthlyInterest << '\t';
-            std::cout << payment << '\t';
-            std::cout << balance << std::endl;
+            cout << monthlyInterest << '\t';
+            cout << payment << '\t';
+            cout << balance << endl;
             if (balance <= 0.005)
             {
                 break;
