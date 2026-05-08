@@ -12,7 +12,7 @@ int main() {
     cout << fixed << setprecision(2);
     cout << "enter balance" << endl;
     cin >> balance;
-    cout << "enter payment" << std::endl;
+    cout << "enter payment" << endl;
     cin >> payment;
     cout << "enter APR" << endl;
     cin >> APR;
