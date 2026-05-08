@@ -5,10 +5,11 @@ using namespace std;
 
 int main() {
  cout << fixed << setprecision(2);
-int month = 12, payment = 0;
-    double interest = 0, monthlyInterest = 0, APR = 0, balance = 0;
+{
+    int month = 12;
+    double interest = 0, monthlyInterest = 0, APR = 0, balance = 0, payment = 0;
 
-    // std::cout << std::fixed << std::setprecision(2);
+    std::cout << std::fixed << std::setprecision(2);
     std::cout << "enter balance" << std::endl;
     std::cin >> balance;
     std::cout << "enter payment" << std::endl;
@@ -37,15 +38,25 @@ int month = 12, payment = 0;
         }
         else
         {
+
             monthlyInterest = (balance * interest);
-            
-              
-              balance -= payment;
-              balance = balance + monthlyInterest;
-              std::cout << i << '\t';
-              std::cout << monthlyInterest << '\t';
-              std::cout << payment << '\t';
-              std::cout << balance << std::endl;
+            balance = balance + monthlyInterest;
+
+            if (payment > balance)
+            {
+                payment = balance;
+            }
+
+            balance -= payment;
+
+            std::cout << i << '\t';
+            std::cout << monthlyInterest << '\t';
+            std::cout << payment << '\t';
+            std::cout << balance << std::endl;
+            if (balance <= 0.005)
+            {
+                break;
+            }
         }
     }
 
