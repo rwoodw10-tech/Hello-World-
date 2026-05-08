@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
- cout << fixed << setprecision(2);
+    cout << fixed << setprecision(2);
 {
     int month = 12;
     double interest = 0, monthlyInterest = 0, APR = 0, balance = 0, payment = 0;
