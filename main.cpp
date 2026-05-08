@@ -32,9 +32,9 @@ int main() {
         if (i == 0)
         {
             cout << i << '\t';
-            std::cout << monthlyInterest << '\t';
-            std::cout << payment << '\t';
-            std::cout << balance << std::endl;
+            cout << monthlyInterest << '\t';
+            cout << payment << '\t';
+            cout << balance << std::endl;
         }
         else
         {
