@@ -53,9 +53,9 @@ int main() {
             cout << monthlyInterest << '\t';
             cout << payment << '\t';
             cout << balance << endl;
-            if (balance <= 0.005)
-            {
-                break;
+            //if (balance <= 0.005)
+            //{
+            //    break;
             //}
         }
     }
