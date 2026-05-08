@@ -56,7 +56,7 @@ int main() {
             if (balance <= 0.005)
             {
                 break;
-            }
+            //}
         }
     }
 
