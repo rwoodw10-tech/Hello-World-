@@ -24,14 +24,14 @@ int main() {
     // calculation = (balance - payment) + monthlyInterest
     cout << "interest calculated: " << interest << endl;
 
-    cout << "Month " << "Interest " << "Payment " << "Balance " << std::endl;
+    cout << "Month " << "Interest " << "Payment " << "Balance " << endl;
 
     for (int i = 0; i < month; ++i)
     {
 
         if (i == 0)
         {
-            std::cout << i << '\t';
+            cout << i << '\t';
             std::cout << monthlyInterest << '\t';
             std::cout << payment << '\t';
             std::cout << balance << std::endl;
