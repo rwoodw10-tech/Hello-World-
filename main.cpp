@@ -22,7 +22,7 @@ int main() {
     // 19.9 / 12 = 1.65833 / 100 = 0.0165833 (interest)
     // balance * interest = 16.5833 (monthlyInterest)
     // calculation = (balance - payment) + monthlyInterest
-    std::cout << "interest calculated: " << interest << std::endl;
+    cout << "interest calculated: " << interest << std::endl;
 
     std::cout << "Month " << "Interest " << "Payment " << "Balance " << std::endl;
 
