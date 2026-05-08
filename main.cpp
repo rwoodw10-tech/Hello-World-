@@ -14,8 +14,8 @@ int main() {
     cin >> balance;
     cout << "enter payment" << std::endl;
     cin >> payment;
-cout << "enter APR" << std::endl;
-    std::cin >> APR;
+    cout << "enter APR" << endl;
+    cin >> APR;
 
     interest = (APR / 12) / 100;
 
